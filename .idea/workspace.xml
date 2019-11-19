@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b10ed320-f19a-4b50-8f4b-0cdb5597ca89" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PHuq9U4Ahb315M6fSHp3ynOtMs" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Android" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts/font" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/assets/js" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b10ed320-f19a-4b50-8f4b-0cdb5597ca89" name="Default Changelist" comment="" />
+      <created>1564869922032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564869922032</updated>
+      <workItem from="1564869923673" duration="1437000" />
+      <workItem from="1564926407618" duration="10731000" />
+      <workItem from="1565030011033" duration="6401000" />
+      <workItem from="1565043381084" duration="58000" />
+      <workItem from="1565043490235" duration="757000" />
+      <workItem from="1565044339492" duration="2000" />
+      <workItem from="1565046386380" duration="1882000" />
+      <workItem from="1565086623541" duration="8986000" />
+      <workItem from="1565263362941" duration="32615000" />
+      <workItem from="1565543532386" duration="1269000" />
+      <workItem from="1565547767322" duration="399000" />
+      <workItem from="1565557637907" duration="382000" />
+      <workItem from="1565782420173" duration="648000" />
+      <workItem from="1566241152654" duration="9311000" />
+      <workItem from="1566290371516" duration="200000" />
+      <workItem from="1566293884881" duration="10894000" />
+      <workItem from="1566306873765" duration="2810000" />
+      <workItem from="1566311008750" duration="4284000" />
+      <workItem from="1566317864966" duration="910000" />
+      <workItem from="1566324905150" duration="5590000" />
+      <workItem from="1566346117109" duration="287000" />
+      <workItem from="1566347511962" duration="119000" />
+      <workItem from="1566349853135" duration="523000" />
+      <workItem from="1566384433663" duration="548000" />
+      <workItem from="1571506673391" duration="13329000" />
+      <workItem from="1571559847051" duration="9050000" />
+      <workItem from="1571605532067" duration="1166000" />
+      <workItem from="1571649997645" duration="1257000" />
+      <workItem from="1571668809202" duration="493000" />
+      <workItem from="1571687740682" duration="326000" />
+      <workItem from="1573343365806" duration="8698000" />
+      <workItem from="1573408166367" duration="3148000" />
+      <workItem from="1574078158803" duration="928000" />
+      <workItem from="1574151661956" duration="488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
